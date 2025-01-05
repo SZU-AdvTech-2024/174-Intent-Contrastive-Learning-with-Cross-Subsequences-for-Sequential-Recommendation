@@ -1,0 +1,7 @@
+@inproceedings{REPO174,
+    author = "Qin, Xiuyuan and Yuan, Huanhuan and Zhao, Pengpeng and Liu, Guanfeng and Zhuang, Fuzhen and Sheng, Victor S",
+    booktitle = "Proceedings of the 17th ACM International Conference on Web Search and Data Mining",
+    pages = "548--556",
+    title = "{Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation}",
+    year = "2024"
+}
